@@ -21,7 +21,7 @@ const Filter = ({ searchTerm }) => {
 
   const [yearInput, setYearInput] = useState(queryParams.year || "");
   const [yearError, setYearError] = useState("");
-  const [isDropdownOpen, setIsDropdownOpen] = useState(true);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const handleUpdateYearParams = useFuncDebounce(yearValue => {
     const params = {
