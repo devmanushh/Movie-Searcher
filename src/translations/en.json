@@ -1,0 +1,80 @@
+{
+  "logoName": {
+    "cine": "Cine",
+    "searcher": "Searcher"
+  },
+
+  "navigation": {
+    "home": "Home",
+    "favourites": "Favourites"
+  },
+
+  "pageNotFound": {
+    "message": "The page you're looking for can't be found",
+    "backToHome": "Back to home"
+  },
+
+  "validation": {
+    "year": {
+      "min": "Year must be at least 1900",
+      "max": "Year must be less than or equal to {{year}}"
+    }
+  },
+
+  "search": {
+    "placeholder": "Search movie or series..."
+  },
+
+  "movie": {
+    "type": {
+      "movie": "Movie",
+      "series": "Series"
+    },
+    "viewMore": "View more",
+    "director": "Director",
+    "actors": "Actors",
+    "boxOffice": "Box office",
+    "year": "Year",
+    "runtime": "Runtime",
+    "language": "Language",
+    "rated": "Rated",
+    "addToFavourites": "Add to favourites",
+    "removeFromFavourites": "Remove from favourites"
+  },
+
+  "filters": {
+    "title": "Filters",
+    "year": "Year",
+    "yearPlaceholder": "Enter year",
+    "type": "Type"
+  },
+
+  "error": {
+    "networkError": "Network error",
+    "noInternetConnection": "No internet connection. Please check your connection.",
+    "generalError": "Something went wrong. Please try again."
+  },
+
+  "empty": {
+    "noMovies": "No movies to show",
+    "movie": "No movies to show"
+  },
+
+  "viewHistory": {
+    "title": "View history",
+    "clearAll": "Clear all",
+    "empty": "No movies in history",
+    "confirmClearMessage": "Are you sure you want to clear all history?",
+    "clearTitle": "Clear view history"
+  },
+
+  "favourites": {
+    "rating": "Rating",
+    "empty": "No favourites added yet."
+  },
+
+  "common": {
+    "cancel": "Cancel",
+    "clear": "Clear"
+  }
+}
