@@ -1,5 +1,12 @@
-# SmileCart
+# A Movie search React project 
 
-A sample React project used for teaching React concepts via Bigbinary Academy.
+#OMDB movie api
+# Search Movies by name  
+# Filter search
+# View search history
+# Add and remove favourite
+# react query, zustand store, react-router-dom
 
-Wireframe: https://amaljith-k.neetowireframe.com/p/MIP/
+
+
+Click here to see the application :    https://movie-searcher-olive.vercel.app/  
